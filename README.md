@@ -14,7 +14,7 @@
 
 在此感谢大佬们的开源,在此也将我的代码开源在github供学习以及他人参考.
 
->注意:此代码对于17届智能车线上赛道做了特别优化,如果想直接拿来用是比较难的,最好是可以借鉴一下思路,其实写出来并不难,难在坚持.我相信如果坚持做的话,每个人是都>可以做出来的.
+>注意:此代码对于17届智能车线上赛道做了特别优化,如果想直接拿来用是比较难的,最好是可以借鉴一下思路,其实写出来并不难,难在坚持.我相信如果坚持做的话,每个人是都>可以做出来的.在此非常感谢我的两个队友小崔和宇哥,PCB画的很不错.是好队友!
 
 作者Email:sunjiyi666@foxmail.com 有问题可以发邮件咨询QQ同号可以搜到
 
@@ -39,7 +39,7 @@ Here is a brief description of the three-pronged processing ideas, after the cam
 
 Thanks to the big guys for their open source, I will also open source my code on github for learning and other people's reference.
 
-> note: this code has been specially optimized for the 17th smart car online track, if you want to use it directly, it is more difficult, it is best to learn from the idea, in fact, it is not difficult to write it out, it is difficult to insist. I believe that if you insist on doing it, everyone > be able to do it.
+> note: this code has been specially optimized for the 17th smart car online track, if you want to use it directly, it is more difficult, it is best to learn from the idea, in fact, it is not difficult to write it out, it is difficult to insist. I believe that if you insist on doing it, everyone > be able to do it.Thank you very much to my two teammates Xiao Cui and Yu Ge, the PCB drawing is very good. Be good teammates!
 
 Author Email:sunjiyi666@foxmail.com If you have any questions, you can send an email to consult QQ The same number can be searched
 
