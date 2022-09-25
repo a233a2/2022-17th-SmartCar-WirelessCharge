@@ -1,7 +1,9 @@
 # 2022-17th-SmartCar-WirelessCharge
 ## 17届全国大学生智能汽车竞赛无线充电组开源项目
 
-本项目为作者在参加17届全国大学生智能汽车竞赛无线充电组的代码   
+本项目为作者在参加17届全国大学生智能汽车竞赛无线充电组的代码 
+###代码以及PCB在master分支
+
 本人感觉此种循迹方式对于新人来说十分友好,不用去写繁杂难以理解的补线算法,并且稳定性也有所保证.在省赛中队伍也是苟且完赛,虽然说成绩不好无缘国赛,但是我觉得这种算法的进步空间还是很大的.并且在车辆高速运行下的稳定性不输给补线策略,希望有人可以试试这种,绝对不坑哈.
 
 摄像头循迹的重要部分参考了上海交通大学AuTop战队开源的循迹策略,即不进行补线处理,在车辆运行的各个阶段采用换循边线的方式处理各种元素.
@@ -24,7 +26,9 @@
 
 ## The 17th National College Students Intelligent Car Competition Wireless Charging Group Open Source Project
 
-This project is the code of the wireless charging group of the author participating in the 17th National College Students Smart Car Competition   
+This project is the code of the wireless charging group of the author participating in the 17th National College Students Smart Car Competition 
+###Code as well as PCB in the master branch
+
 I feel that this way of following is very friendly for newcomers, do not have to write complicated and incomprehensible line filling algorithms, and the stability is also guaranteed. In the provincial competition, the team is also meticulous and finished, although the results are not good and do not win the national competition, but I think there is still a lot of room for improvement in this algorithm. And the stability of the vehicle running at high speed does not lose the supply line strategy, I hope someone can try this, absolutely not pit ha.
 
 An important part of camera tracking refers to the open source tracking strategy of the AuTop team of Shanghai Jiao Tong University, that is, without making up the line, the various elements are processed by changing the sideline at all stages of the vehicle.
