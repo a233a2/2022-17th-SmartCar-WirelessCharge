@@ -1,3 +1,4 @@
+[![Awesome Intelligent Car Race](https://awesome.re/badge.svg)](https://github.com/ittuann/Awesome-IntelligentCarRace)
 # 2022-17th-SmartCar-WirelessCharge
 ## 17届全国大学生智能汽车竞赛无线充电组开源项目 青岛理工大学
 
